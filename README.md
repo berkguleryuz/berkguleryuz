@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkguleryuz
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning front end web devoloping
+- 🌱 I’m currently learning front end web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me berkguleryuz@gmail.com
 
